@@ -269,7 +269,6 @@ O Power BI será utilizado como camada de **Business Intelligence**, permitindo 
 │   └── download_dataset.py
 │
 ├── sql/
-│   ├── create_tables.sql
 │   └── sp_carga_olist.sql
 │
 ├── powerbi/
