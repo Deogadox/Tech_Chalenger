@@ -356,8 +356,8 @@ Dessa forma, a solução integra **Python, banco de dados e Business Intelligenc
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Felipe Miranda**
+**Felipe Miranda**, **Thamyres Schroeder** e **Guilherme Tavares Azevedo**
 
 Projeto desenvolvido como entrega do **Tech Challenge — FIAP**, com foco em **Dados, SQL, Python e Business Intelligence**.
